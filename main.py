@@ -7,7 +7,7 @@ import asyncio
 import os.path
 import sys
 import os
-
+print("hello")
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
